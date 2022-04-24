@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\bin\Debug\Sec3LabExam-Joplin.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\obj\Debug\Sec3LabExam-Joplin.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\obj\Debug\Sec3LabExam_Joplin.DecoderWheel.resources
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\obj\Debug\Sec3LabExam_Joplin.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\obj\Debug\Sec3LabExam-Joplin.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\bin\Debug\Sec3LabExam-Joplin.exe
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\bin\Debug\Sec3LabExam-Joplin.pdb
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\obj\Debug\Sec3LabExam-Joplin.exe
+c:\users\paul\documents\visual studio 2015\Projects\Sec3LabExam-Joplin\Sec3LabExam-Joplin\obj\Debug\Sec3LabExam-Joplin.pdb
